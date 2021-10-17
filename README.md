@@ -1,11 +1,9 @@
 Drag and Drop App
 Build with React-beautiful-dnd
+
 - Styled-components
 - React.js
 - Look cute
-
-![ezgif com-video-to-gif (1)](https://user-images.githubusercontent.com/29822960/73142796-2c8c8c00-4093-11ea-8aec-5c2cedcd0de4.gif)
-
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
