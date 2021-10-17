@@ -3,7 +3,7 @@
     "task-1": {
       "id": "task-1",
       "title": "Global Applications Designer",
-      "content": "Feed unicorns",
+      "name": "Feed unicorns",
       "information": "The XML protocol is down, back up the multi-byte interface so we can index the JSON port!",
       "image-1": "https://cdn.fakercloud.com/avatars/mfacchinello_128.jpg",
       "image-2": "https://cdn.fakercloud.com/avatars/wtrsld_128.jpg",
@@ -122,7 +122,7 @@
       "id": "task-10",
       "name": "Sandy Kuhn",
       "title": "Regional Applications Architect",
-      "information": "Qui quis vel.Dolor molestiae animi et sapiente eaque.Natus dolorum odio recusandae esse ut et repudia",
+      "information": "Qui quis vel.Dolor molestiae animi et sapiente eaque.Natus dolorum odio recusandae",
       "image-1": "https://cdn.fakercloud.com/avatars/stan_128.jpg",
       "image-2": "https://cdn.fakercloud.com/avatars/eugeneeweb_128.jpg",
       "image-3": "https://cdn.fakercloud.com/avatars/andreas_pr_128.jpg",
@@ -511,7 +511,7 @@
     },
     "column-7": {
       "id": "column-7",
-      "title": "Legacy Configuration Coordinator",
+      "title": "Legacy Configuration",
       "taskIds": ["task-28", "task-29"]
     },
     "column-8": {
